@@ -13,7 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Overview
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/stats-preview-card-component-css-flex-and-grid-6t8b7MQQ0A)
 - Live Site URL: [here](https://ughvop.github.io/stats-preview-card-component-main/)
 
 ## My process
